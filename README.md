@@ -22,7 +22,7 @@ E assim passar nos testes automatizados:
 
 ---
 
-## Features
+## Techs
 
 *NodeJs* -
 *Typescript* -
